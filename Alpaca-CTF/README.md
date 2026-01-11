@@ -5,8 +5,7 @@
 ## AlpacaHack Daily
 
 ### 🔐 Crypto
-（準備中...）
-<!-- - [one-p-rsa](./AlpacaHack-Daily/Crypto/one-p-rsa) -->
+- [RSA2026](./Crypto/RSA2026)
 <!-- - [RGB](./AlpacaHack-Daily/Crypto/RGB) -->
 <!-- - [super-tomato](./AlpacaHack-Daily/Crypto/super-tomato) -->
 <!-- - [Square RSA](./AlpacaHack-Daily/Crypto/Square-RSA) -->
