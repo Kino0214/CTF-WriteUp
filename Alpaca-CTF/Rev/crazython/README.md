@@ -1,4 +1,4 @@
-# RSA2026 (Crypto)
+# crazython
 
 ## 問題
 **crazython.py**

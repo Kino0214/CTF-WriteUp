@@ -15,8 +15,7 @@
 <!-- - [simpleoverwrite](./AlpacaHack-Daily/Pwn/simpleoverwrite) -->
 
 ### 🔍 Rev
-（準備中...）
-<!-- - [Useful Machine](./AlpacaHack-Daily/Rev/Useful-Machine) -->
+- [crazython](./Rev/crazython)
 <!-- - [cha-ll-enge](./AlpacaHack-Daily/Rev/cha-ll-enge) -->
 <!-- - [Ruby Flag Checker](./AlpacaHack-Daily/Rev/Ruby_Flag_Checker) -->
 
