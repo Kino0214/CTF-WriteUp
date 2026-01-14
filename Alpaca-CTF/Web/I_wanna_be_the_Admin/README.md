@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="./images/wannalogin.png" width="500">
+      <img src="./images/wannalogin.png">
     </td>
   </tr>
 </table>
@@ -19,7 +19,7 @@ RegisterされたuserでLoginすると以下のようなページが表示され
 <table align="center">
   <tr>
     <td>
-      <img src="./images/in.png" width="500">
+      <img src="./images/in.png" >
     </td>
   </tr>
 </table>
