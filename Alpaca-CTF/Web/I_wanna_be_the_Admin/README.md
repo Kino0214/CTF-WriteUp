@@ -4,13 +4,25 @@
 ## 問題
 でもguestから始めよう!
 
-![](./images/wannalogin.png)
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="./images/wannalogin.png" width="500">
+    </td>
+  </tr>
+</table>
 
 LoginとRegisterができるWebサービスです. 
 RegisterされたuserでLoginすると以下のようなページが表示されます.
 
-![](./images/in.png)
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="./images/in.png" width="500">
+    </td>
+  </tr>
+</table>
 
 ## 解法
 ``` role=admin ```の```user```でLoginすれば```FLAG```が入手できるようです.
